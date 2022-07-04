@@ -1,0 +1,5 @@
+Backend
+--------------
+    rails new RailsProject –api –database=postgresql
+
+    
